@@ -1228,7 +1228,7 @@ function showAnimation($name){
 }
 function __showicon($r){
 	$s['btn']='http://solevisible.com/images/btn.png';
-	$s['alfamini']='http://solevisible.com/images/alfamini.png';
+	$s['alfamini']='https://zeus-pages.site/img/untamed-logo6.png';
 	$s['loader']='https://zeus-pages.site/img/untamed-logo3.png';
 	//return 'data:image/png;base64,'.__get_resource($s[$r]);
 	return $s[$r];
